@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hello Jenkins This messsage printed from C program. This SCO Polling build trigger \n");
+  printf("Hello Jenkins This messsage printed from C program. This SCO Polling build trigger  \n");
   return 0;
 }
