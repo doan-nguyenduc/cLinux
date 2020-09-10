@@ -77,4 +77,8 @@ def read_config_file():
 
 read_config_file()
 search_common_source_under_dir()
-
+################
+[SEARCH_CONFIG]
+number_of_line_equal = 3
+search_directory = /tmp/source/
+file_type = .txt
